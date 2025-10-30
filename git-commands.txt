@@ -1,0 +1,11 @@
+git branch master: Creates a new branch.
+
+git merge master: Merges changes from one branch into another.
+
+git commit -m "Commit message": Commits changes to the repository with a message.
+ 
+git push origin master: Pushes changes to the remote repository.
+
+git pull origin master: Pulls changes from the remote repository. 
+
+Youssef Mokhtar 202200469
